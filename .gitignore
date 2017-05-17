@@ -26,3 +26,4 @@ nbdist/
 
 ### spring-boot ###
 transaction-logs/
+devtool/
